@@ -1,7 +1,7 @@
 # Amazon-Sales-Analysis 📊
 
 
-<img src="https://i.imgur.com/reHlxuI.jpeg" alt="powerbi-logo" width="1200" height="300"/>
+<img src="https://i.imgur.com/reHlxuI.jpeg" alt="powerbi-logo" width="1200" height="350"/>
 
 ---
 
@@ -44,7 +44,7 @@ The Project analyzes Amazon sales data using Python. The goal of the project is 
 
 ---
 
-### Recommendations for Airbnb:
+### Recommendations for Amazon:
 - Invest in marketing campaigns during peak seasons to maximize revenue.
 - Focus on high-performing regions and expand product offerings tailored to those markets.
 - Develop loyalty programs to retain repeat customers.
