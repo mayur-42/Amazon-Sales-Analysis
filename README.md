@@ -66,7 +66,7 @@ The Project analyzes Amazon sales data using Python. The goal of the project is 
 ## Technologies Used 🛠️
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Wordcloud, Scikit-learn
 - **Data Source**: Kaggle Airbnb Listings Dataset
-## Kaggle Notebook Link - [Notebook] (https://www.kaggle.com/code/mayurjambe/amazon-sales-analysis)
+## Kaggle Notebook Link - [Notebook](https://www.kaggle.com/code/mayurjambe/amazon-sales-analysis)
 
 
 ---
