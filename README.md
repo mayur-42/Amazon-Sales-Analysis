@@ -31,7 +31,7 @@ The Project analyzes Amazon sales data using Python. The goal of the project is 
 ---
 
 ## Dataset 📂
-- **Source**: [Airbnb Listings Dataset](https://www.kaggle.com/datasets/mayurjambe/data-amazon-sales) 
+- **Source**: [Amazon Sales Dataset](https://www.kaggle.com/datasets/mayurjambe/data-amazon-sales) 
 - **Description**: The dataset provides a comprehensive view of Amazon's sales over a given period.
 
 ---
